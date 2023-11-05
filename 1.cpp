@@ -4,6 +4,7 @@
 #include <ctime>
 #include <2.h>
 #include <3.h>
+#include <4.h>
 using namespace std;
 
 // Функция для инициализации вектора имен демонстрационными значениями
